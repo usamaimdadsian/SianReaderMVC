@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/components">
+        <file alias="qmldir">components/qmldir</file>
+        <file alias="NavigationButton.qml">components/NavigationButton.qml</file>
+        <file alias="NavigationBar.qml">components/NavigationBar.qml</file>
+        <file alias="CommandButton.qml">components/CommandButton.qml</file>
+        <file alias="CommandBar.qml">components/CommandBar.qml</file>
+        <file alias="TitleBar.qml">components/TitleBar.qml</file>
+        <file alias="IconButton.qml">components/IconButton.qml</file>
+        <file alias="WindowResizer.qml">components/WindowResizer.qml</file>
+        <file alias="ContentViewOptions.qml">components/ContentViewOptions.qml</file>
+        <file alias="HomeViewOptions.qml">components/HomeViewOptions.qml</file>
+    </qresource>
+</RCC>
